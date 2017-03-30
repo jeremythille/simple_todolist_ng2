@@ -1,0 +1,7 @@
+<input #add
+        type="text"
+        placeholder="Add task"
+        [(ngModel)]="newTodo.title" />
+<button (click)="addTodo()">Add</button>
+
+<todos></todos>
