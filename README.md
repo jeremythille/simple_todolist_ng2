@@ -1,12 +1,13 @@
 # TodolistNg2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
-It is used in the NodeJS course I give at the Nomades worksho in Geneva.
+
+It is used in the NodeJS course I give at the Nomades workshop in Geneva, 2017-03.
 
 
 # How to run
 
-You need to install MongoDB, create a `todolist` database and a `todos` collection.
+You need to install and run MongoDB, create a `todolist` database and a `todos` collection.
 
 Then :
 
